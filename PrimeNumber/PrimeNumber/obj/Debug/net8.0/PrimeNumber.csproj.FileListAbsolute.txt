@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\bin\Debug\net8.0\PrimeNumber.exe
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\bin\Debug\net8.0\PrimeNumber.deps.json
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\bin\Debug\net8.0\PrimeNumber.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\bin\Debug\net8.0\PrimeNumber.dll
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\bin\Debug\net8.0\PrimeNumber.pdb
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\PrimeNumber.dll
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\refint\PrimeNumber.dll
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\PrimeNumber.pdb
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\PrimeNumber.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Programming\Software Development\Resolut\CodingTest\PrimeNumber\PrimeNumber\obj\Debug\net8.0\ref\PrimeNumber.dll
